@@ -1,0 +1,36 @@
+name: Jekyll Build and Deploy
+
+on:
+  push:
+    branches: [main] # Or your default branch name (e.g., master)
+  workflow_dispatch: # Allows manual triggering from the Actions tab
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: ${{ matrix.ruby }}
+        env:
+          BUNDLE_WITHOUT: development:test
+        strategy:
+          matrix:
+            ruby: ['3.0', '3.1', '3.2'] # Or specify the Ruby version you use locally
+
+      - name: Install dependencies
+        run: bundle install
+
+      - name: Build with Jekyll
+        run: bundle exec jekyll build --destination ./_site
+
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: _site
+          branch: gh-pages # The branch where GitHub Pages serves from
+          token: ${{ secrets.GITHUB_TOKEN }}
