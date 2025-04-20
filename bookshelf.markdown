@@ -13,7 +13,7 @@ permalink: /bookshelf/
 * [Dark Matter by Blake Crouch](https://www.goodreads.com/book/show/27833670-dark-matter?from_search=true&from_srp=true&qid=9twxr7LaDF&rank=1)
 * [Ready Player One Series by Ernest Cline](https://www.goodreads.com/series/221687-ready-player-one)
 * [Sea of Tranquility by Emily St. John Mandel](https://www.goodreads.com/book/show/58446227-sea-of-tranquility?ac=1&from_search=true&qid=LGkbADm68N&rank=1)
-* [The Murderbot Diaries by Martha Wells](https://www.goodreads.com/series/191900-the-murderbot-diaries)
+* [The Murderbot Diaries Series by Martha Wells](https://www.goodreads.com/series/191900-the-murderbot-diaries)
 
 <h3> Memoir and Biography </h3> 
 * [Shoe Dog: A Memoir by the Creator of Nike by Phil Knight](https://www.goodreads.com/book/show/9969571-ready-player-one?from_search=true&from_srp=true&qid=HUmMW5EEiU&rank=1)

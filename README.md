@@ -1,1 +1,0 @@
-# jai-makhija.github.io
