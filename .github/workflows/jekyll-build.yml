@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        ruby: ['3.0', '3.1', '3.2'] # Or specify the Ruby version you use locally
+        ruby: ['3.1', '3.2', '3.3'] # Use Ruby versions >= 3.1.0
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -26,7 +26,7 @@ jobs:
           BUNDLE_WITHOUT: development:test
 
       - name: Install dependencies
-        run: bundle install --deployment # Changed this line
+        run: bundle install --deployment
 
       - name: Build with Jekyll
         run: bundle exec jekyll build --destination ./_site
