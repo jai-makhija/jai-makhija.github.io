@@ -5,8 +5,14 @@
 @import "minima/initialize";
 
 /* Change the default link color */
-a {
-  color: rgb(10, 233, 10);
+a,
+.site-title,
+.site-nav .page-link {
+  color: rgb(10, 233, 10) !important;
+}
+
+.site-nav a {
+  margin-right: 20px; /* space between each nav item */
 }
 
 a:hover {
@@ -18,10 +24,5 @@ a:visited {
 }
 
 .green-text {
-  color: rgb(10, 233, 10);
-}
-
-h1, h2, h3, h4, h5, h6,
-.site-title, .page-title {
   color: rgb(10, 233, 10);
 }

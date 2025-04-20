@@ -14,6 +14,10 @@ author:
   name: Jai Makhija
   email: jaimakhija98@gmail.com
 
+header_pages:
+  - bookshelf.md
+  - pow.md
+
 # Build settings
 #theme: minima
 remote_theme: jekyll/minima
