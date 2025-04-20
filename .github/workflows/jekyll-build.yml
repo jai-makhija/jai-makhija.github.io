@@ -6,7 +6,7 @@ on:
   workflow_dispatch: # Allows manual triggering from the Actions tab
 
 permissions:
-  contents: write # This explicitly grants write permission to the repository contents
+  contents: write
 
 jobs:
   build-and-deploy:
@@ -26,7 +26,7 @@ jobs:
           BUNDLE_WITHOUT: development:test
 
       - name: Install dependencies
-        run: bundle install
+        run: bundle install --deployment # Changed this line
 
       - name: Build with Jekyll
         run: bundle exec jekyll build --destination ./_site
