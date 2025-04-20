@@ -259,3 +259,5 @@ a:hover { color: #0ae90a; }
 a:visited { color: #0ae90a; }
 
 .green-text { color: #0ae90a; }
+
+h1, h2, h3, h4, h5, h6, .site-title, .page-title { color: #0ae90a; }
