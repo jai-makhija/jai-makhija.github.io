@@ -21,7 +21,7 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
 minima:
-  skin: auto # or auto if you want it to switch with your system settings.
+  skin: dark # or auto if you want it to switch with your system settings.
 
 # Exclude from processing.
 # The following items will not be processed, by default.
