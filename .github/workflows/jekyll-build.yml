@@ -38,3 +38,4 @@ jobs:
           branch: gh-pages
           token: ${{ secrets.GITHUB_TOKEN }}
           force: true # Explicitly set force to true (use with caution)
+          force_orphan: true
