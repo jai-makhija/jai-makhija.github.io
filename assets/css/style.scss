@@ -6,17 +6,22 @@
 
 /* Change the default link color */
 a {
-  color: rgb(243, 223, 5);
+  color: rgb(10, 233, 10);
 }
 
 a:hover {
-  color: rgb(243, 223, 5);
+  color: rgb(10, 233, 10);
 }
 
 a:visited {
-  color: rgb(243, 223, 5);
+  color: rgb(10, 233, 10);
 }
 
 .green-text {
-  color: rgb(243, 223, 5);
+  color: rgb(10, 233, 10);
+}
+
+h1, h2, h3, h4, h5, h6,
+.site-title, .page-title {
+  color: rgb(10, 233, 10);
 }
