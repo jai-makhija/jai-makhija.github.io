@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Education and Work
-permalink: /eduwork/
+title: Proof of Work
+permalink: /pow/
 ---
 
 (Last updated on 19th April 2025)

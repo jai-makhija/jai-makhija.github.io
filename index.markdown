@@ -8,4 +8,4 @@ layout: home
 
   Hi, I am Jai Makhija. I have always been chasing adrenaline ever since I discovered race cars and fighter jets at the age of 10. Wanting to build something cool, I have worked in startups desiging and manufacturing launch vehicles, commmercial EVs, and military drones, with my focus on hardware development. Beyond work, I am a devoted Formula 1 fan and spend my weekends outdoors either hiking or running.
 
-  [Linkedin](https://www.linkedin.com/in/jaimakhija/). [Twitter](https://x.com/jaimakhija_txt). [Github](https://github.com/jai-makhija).
+  [LinkedIn](https://www.linkedin.com/in/jaimakhija/). [Twitter](https://x.com/jaimakhija_txt). [Strava](https://www.strava.com/athletes/67484591). [GitHub](https://github.com/jai-makhija).

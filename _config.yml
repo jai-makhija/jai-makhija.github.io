@@ -7,16 +7,15 @@ description: >- # this means to ignore newlines until "baseurl:"
   Beyond work, I am a devoted Formula 1 fan and spend my weekends outdoors, hiking and running.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jai-makhija.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jaimakhija_txt
-#github_username: jai-makhija
 
 author:
   name: Jai Makhija
   email: jaimakhija98@gmail.com
 
-header_pages:
-  - bookshelf.md
-  - pow.md
+nav_paths:
+  - "bookshelf.markdown"
+  - "travel.markdown"
+  - "pow.markdown"
 
 # Build settings
 #theme: minima
