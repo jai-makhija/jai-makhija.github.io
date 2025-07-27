@@ -7,7 +7,11 @@ permalink: /pow/
 (Last updated on 19th April 2025)
 
 <h3> Chief Engineer - Aerodynamics at Green Aero Propulsion Pvt. Ltd. </h3>
-<h4> Jan 2025 - present </h4>
+<h4 style="display: flex; justify-content: space-between;">
+  <span>Military Systems Manufacturer</span>
+  <span>Jan 2025 - present</span>
+</h4>
+
 More information coming soon
 
 <h3> Masters in Race Car Aerodynamics at University of Southampton </h3> 
@@ -24,8 +28,10 @@ Performed wind tunnel tests and CFD simulations to analyse the influence of cros
 * Formula Student: Developed a CFD workflow to conduct Conjugate Heat Transfer simulations of the race car's battery pack, assessing its thermal performance and cooling requirements.
 
 <h3> CFD Engineer at Euler Motors Pvt. Ltd. </h3>
-<h4> Commercial Electric Vehicle Manufacturer </h4> 
-<h4> Mar 2022 - Aug 2023 </h4> 
+<h4 style="display: flex; justify-content: space-between;">
+  <span>Commercial Electric Vehicle Manufacturer</span>
+  <span>Mar 2020 - Aug 2023</span>
+</h4>
 
 * Initiated the development of a physics-based vehicle model and ECM model of the Lithium-ion battery cell on Simulink, reducing reliance on physical testing for battery range evaluation.
 * Designed the thermal management system of the battery pack with a streamlined, automated open-source CFD workflow built around OpenFOAM.
@@ -35,8 +41,10 @@ Performed wind tunnel tests and CFD simulations to analyse the influence of cros
 * Validated and refined heat generation models for CFD simulations using experimental data.
 
 <h3> Aerodynamics Engineer at Agnikul Cosmos Pvt. Ltd. </h3> 
-<h4> Satellite Launch Vehicle Manufacturer </h4>
-<h4> Jul 2020 - Feb 2022 </h4>
+<h4 style="display: flex; justify-content: space-between;">
+  <span>Satellite Launch Vehicle Manufacturer</span>
+  <span>Jul 2020 - Feb 2022</span>
+</h4>
 
 * Developed a Finite Difference Method solver to estimate transient aerodynamic heating effects during the flight and determine thermal insulation requirements for the vehicle.
 * Performed CFD benchmarking by validating the vehicle's aerodynamic coefficients and surface pressure data with wind tunnel results across multiple flow regimes.
