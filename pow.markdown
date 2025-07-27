@@ -24,11 +24,8 @@ Performed wind tunnel tests and CFD simulations to analyse the influence of cros
 * Formula Student: Developed a CFD workflow to conduct Conjugate Heat Transfer simulations of the race car's battery pack, assessing its thermal performance and cooling requirements.
 
 <h3> CFD Engineer at Euler Motors Pvt. Ltd. </h3>
+<h4> Commercial Electric Vehicle Manufacturer </h4> 
 <h4> Mar 2022 - Aug 2023 </h4> 
-
-<div style="text-align: center;">
-    <img src="/assets/images/Euler_1.png" alt="Euler_1" width="600" style="margin-bottom: 10px;">
-</div>
 
 * Initiated the development of a physics-based vehicle model and ECM model of the Lithium-ion battery cell on Simulink, reducing reliance on physical testing for battery range evaluation.
 * Designed the thermal management system of the battery pack with a streamlined, automated open-source CFD workflow built around OpenFOAM.
@@ -38,11 +35,8 @@ Performed wind tunnel tests and CFD simulations to analyse the influence of cros
 * Validated and refined heat generation models for CFD simulations using experimental data.
 
 <h3> Aerodynamics Engineer at Agnikul Cosmos Pvt. Ltd. </h3> 
+<h4> Satellite Launch Vehicle Manufacturer </h4>
 <h4> Jul 2020 - Feb 2022 </h4>
-
-<div style="text-align: center;">
-    <img src="/assets/images/Agnikul_1.png" alt="Agnikul_1" width="700" style="margin-bottom: 10px;">
-</div>
 
 * Developed a Finite Difference Method solver to estimate transient aerodynamic heating effects during the flight and determine thermal insulation requirements for the vehicle.
 * Performed CFD benchmarking by validating the vehicle's aerodynamic coefficients and surface pressure data with wind tunnel results across multiple flow regimes.
