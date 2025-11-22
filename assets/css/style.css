@@ -251,6 +251,10 @@ table td { border: 1px solid #2b2b2b; }
 
 /** Grid helpers */
 @media screen and (min-width: 800px) { .one-half { width: calc(50% - (30px / 2)); } }
+body { color: white; }
+
+h1, h2, h3, h4, h5, h6 { color: white; }
+
 /* Change the default link color */
 a, .site-title, .site-nav .page-link { color: #0ae90a !important; }
 
