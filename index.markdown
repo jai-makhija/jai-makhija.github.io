@@ -2,13 +2,15 @@
 layout: home
 ---
 
-<div style="text-align: center;">
-    <img src="/assets/images/JM_1.jpg" alt="JM_1" width="600" style="margin-bottom: 30px;">
-</div>
+  Hi, my name is **Jai Makhija** 
 
-  * Hi, I am **Jai Makhija** and I have been chasing adrenaline ever since I discovered race cars and fighter jets at the age of 10. 
-  * Wanting to build something as a culminaton of adventure, big dreams and a creative spark, I got a Masters in Race Car Aerodynamics from Southampton and have worked in startups desiging and manufacturing launch vehicles, EVs, and military drones, focussing on hardware development.
-  * Beyond work, I am a passionate Formula 1 fan, avid hiker, playlist curator, and a rookie hybrid training athlete. 
-  * Always excited to talk to people about things that excite them, feel free to reach out to me at jaimakhija98@gmail.com
+  <h2> Currently </h2> 
+  * Main quest - Leading the Aerodynamics team at [Green Aero Propulsion](https://www.linkedin.com/company/greenaero/).
+  * Side quests - Formula 1, hikes, and hybrid training. 
 
-  [LinkedIn](https://www.linkedin.com/in/jaimakhija/). [Twitter](https://x.com/jaimakhija_txt). [Strava](https://www.strava.com/athletes/67484591). [GitHub](https://github.com/jai-makhija).
+  <h2> Previously </h2> 
+  * Got my Master's in Race Car Aerodynamics at [University of Southampton](https://www.southampton.ac.uk/courses/race-car-aerodynamics-masters-msc).
+  * Built Asia's first immersion cooled battery pack at [Euler Motors](https://www.eulermotors.com/en).
+  * Worked on a variety of aerodynamic problems for developing launch vehicles at [Agnikul](https://agnikul.in/).
+  * Won 2 national level Quad Bike designing and racing competitions during my undergrad.
+  * Studied Mechanical Engineering at SRM Institute of Science and Technology.

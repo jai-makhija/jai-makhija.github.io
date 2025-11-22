@@ -4,11 +4,11 @@ title: Proof of Work
 permalink: /pow/
 ---
 
-(Last updated on 19th April 2025)
+(Last updated on 22nd November 2025)
 
-<h3> Chief Engineer - Aerodynamics at Green Aero Propulsion Pvt. Ltd. </h3>
+<h3> Chief Engineer - Aerodynamics at Green Aero Propulsion </h3>
 <h4 style="display: flex; justify-content: space-between;">
-  <span>Military Systems Manufacturer</span>
+  <span>Micro Gas Turbine Engine Manufacturer</span>
   <span>Jan 2025 - present</span>
 </h4>
 
@@ -17,17 +17,17 @@ More information coming soon
 <h3> Masters in Race Car Aerodynamics at University of Southampton </h3> 
 <h4> Sep 2023 - Sep 2024 </h4>
 
-<div style="text-align: center;">
-  <img src="/assets/images/Soton_1.jpg" alt="Soton_1" width="600" style="margin-bottom: 10px;">
-</div>
-
 * Group Design Project: “Aerodynamic optimisation of the Formula Student car” <br>
-Set up a streamlined CFD workflow that replicated the physical behaviour observed in the wind tunnel tests to perform aerodynamic optimisation of the race car’s side wing whose downforce and efficiency increased by 2.5 times.
+    - Set up a CFD workflow to replicate the airflow observed in the wind tunnel within a 5% error margin. 
+    - Optimised the race car’s side wing resulting in 2.5 times higher downforce and efficiency.
+
 * Dissertation: “Numerical study of motorsport overtake manoeuvre during crosswind conditions” <br>
-Performed wind tunnel tests and CFD simulations to analyse the influence of crosswinds on the aerodynamic forces, balance, and efficiency of race cars while they overtake each other to provide insights into optimal overtaking paths in different crosswind conditions.
+    - Performed wind tunnel tests to chracterise the aerodynamic performance of race cars during crosswinds.
+    - Developed optimal overtaking paths for the attacking driver based on crosswind conditions.
+
 * Formula Student: Developed a CFD workflow to conduct Conjugate Heat Transfer simulations of the race car's battery pack, assessing its thermal performance and cooling requirements.
 
-<h3> CFD Engineer at Euler Motors Pvt. Ltd. </h3>
+<h3> CFD Engineer at Euler Motors</h3>
 <h4 style="display: flex; justify-content: space-between;">
   <span>Commercial Electric Vehicle Manufacturer</span>
   <span>Mar 2020 - Aug 2023</span>
@@ -40,7 +40,7 @@ Performed wind tunnel tests and CFD simulations to analyse the influence of cros
 * Set up a CFD workflow to optimise the vehicle’s aerodynamic design with OpenFOAM.
 * Validated and refined heat generation models for CFD simulations using experimental data.
 
-<h3> Aerodynamics Engineer at Agnikul Cosmos Pvt. Ltd. </h3> 
+<h3> Aerodynamics Engineer at Agnikul Cosmos </h3> 
 <h4 style="display: flex; justify-content: space-between;">
   <span>Satellite Launch Vehicle Manufacturer</span>
   <span>Jul 2020 - Feb 2022</span>
@@ -55,12 +55,7 @@ Performed wind tunnel tests and CFD simulations to analyse the influence of cros
 <h3> Bachelors in Mechanical Engineering at SRM Institute of Science and Technology </h3> 
 <h4> Jul 2016 - Jun 2020 </h4>
 
-<div style="display: flex; gap: 10px; margin-bottom: 10px;">
-    <img src="/assets/images/EP_1.jpg" alt="EP_1" style="max-width: 50%;">
-    <img src="/assets/images/EP_2.jpg" alt="EP_2" style="max-width: 50%;">
-</div>
-
-* Student team: Served as a Brake Engineer in designing and building an All Terrain Vehicle (ATV) that won two national Quad Bike design competitions in 2018.
+* Student team: Worked as a Brake Engineer in designing and building an All Terrain Vehicle (ATV) that won two national Quad Bike design competitions in 2018.
 * Thesis: “Numerical Investigation of Flow over Launch Vehicle at transonic Mach numbers” <br>
 Performed CFD simulations to study the effects of angle of attack and strap-on boosters on aerodynamic forces and shockwave formation on the launch vehicle in transonic flow.
 

@@ -15,8 +15,9 @@ author:
   email: jaimakhija98@gmail.com
 
 nav_paths:
+  - "links.markdown"
   - "bookshelf.markdown"
-  - "travel.markdown"
+  - "publications.markdown"
   - "pow.markdown"
 
 # Build settings
