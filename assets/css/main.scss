@@ -1,0 +1,36 @@
+---
+---
+
+@import "minima/skins/dark";
+@import "minima/initialize";
+
+body {
+  color: white;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: white;
+}
+
+/* Change the default link color */
+a,
+.site-title,
+.site-nav .page-link {
+  color: rgb(10, 233, 10) !important;
+}
+
+.site-nav a {
+  margin-right: 20px; /* space between each nav item */
+}
+
+a:hover {
+  color: rgb(10, 233, 10);
+}
+
+a:visited {
+  color: rgb(10, 233, 10);
+}
+
+.green-text {
+  color: rgb(10, 233, 10);
+}

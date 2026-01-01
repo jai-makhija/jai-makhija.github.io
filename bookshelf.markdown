@@ -4,7 +4,7 @@ title: Bookshelf
 permalink: /bookshelf/
 ---
 
-(Last updated on 22nd November 2025)
+(Last updated on 1st January 2026)
 
 <h3> Sci-Fi </h3> 
 * [The Martian](https://www.goodreads.com/book/show/18007564-the-martian) by Andy Weir
@@ -22,8 +22,11 @@ permalink: /bookshelf/
 * [Elon Musk](https://www.goodreads.com/book/show/122765395-elon-musk?from_search=true&from_srp=true&qid=i6aCvqGS1N&rank=20) by Walter Isaacson
 * [Greenlight](https://www.goodreads.com/book/show/52838315-greenlights?ref=nav_sb_noss_l_10) by Matthew McConaughey
 * [The Space Barons](https://www.goodreads.com/book/show/36205015-the-space-barons?ac=1&from_search=true&qid=4Ezr5e2CT0&rank=1) by Christian Davenport
+* [Zero to One](https://www.goodreads.com/book/show/18050143-zero-to-one?ref=nav_sb_ss_1_11) by Peter Thiel
 * [Steve Jobs](https://www.goodreads.com/book/show/11084145-steve-jobs?ref=nav_sb_ss_1_6) by Walter Isaacson
 * [Careless People](https://www.goodreads.com/book/show/223436601-careless-people?ref=nav_sb_ss_1_15) by Sarah Wynn-Williams
+* [Big Billion Startup](https://www.goodreads.com/book/show/52346729-big-billion-startup) by Mihir Dalal
+* [How to Turn Down a Billion Dollars](https://www.goodreads.com/book/show/34964879-how-to-turn-down-a-billion-dollars?ref=nav_sb_ss_1_20) by Billy Gallagher
 
 <h3> Formula 1 </h3> 
 * [How to Build a Car](https://www.goodreads.com/book/show/35657708-how-to-build-a-car?ref=nav_sb_noss_l_18) by Adrian Newey
@@ -40,6 +43,5 @@ permalink: /bookshelf/
 <h3> Self-help </h3>
 * [The Psychology of Money](https://www.goodreads.com/book/show/41881472-the-psychology-of-money?ref=nav_sb_ss_1_8) by Morgan Housel
 * [The Almanack of Naval Ravikant](https://www.goodreads.com/book/show/54898389-the-almanack-of-naval-ravikant?ref=nav_sb_ss_1_8) by Eric Jorgenson
-* [Zero to One](https://www.goodreads.com/book/show/18050143-zero-to-one?ref=nav_sb_ss_1_11) by Peter Thiel
 * [Steal like an Artist](https://www.goodreads.com/book/show/13099738-steal-like-an-artist) by Justin Kleon
 * [Let's Talk Money](https://www.goodreads.com/book/show/40499078-let-s-talk-money) by Monika Halan

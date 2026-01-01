@@ -17,14 +17,8 @@ More information coming soon
 <h3> Masters in Race Car Aerodynamics at University of Southampton </h3> 
 <h4> Sep 2023 - Sep 2024 </h4>
 
-* Group Design Project: “Aerodynamic optimisation of the Formula Student car” <br>
-    - Set up a CFD workflow to replicate the airflow observed in the wind tunnel within a 5% error margin. 
-    - Optimised the race car’s side wing resulting in 2.5 times higher downforce and efficiency.
-
-* Dissertation: “Numerical study of motorsport overtake manoeuvre during crosswind conditions” <br>
-    - Performed wind tunnel tests to chracterise the aerodynamic performance of race cars during crosswinds.
-    - Developed optimal overtaking paths for the attacking driver based on crosswind conditions.
-
+* Group Design Project: Aerodynamic optimisation of the Formula Student car <br>
+* Dissertation: [Numerical Investigation on Motorsport Overtake Manoeuvre in Crosswind Conditions](https://www.sae.org/papers/numerical-investigation-motorsport-overtake-manoeuvre-crosswind-conditions-2025-01-8773) <br>
 * Formula Student: Developed a CFD workflow to conduct Conjugate Heat Transfer simulations of the race car's battery pack, assessing its thermal performance and cooling requirements.
 
 <h3> CFD Engineer at Euler Motors</h3>
@@ -56,8 +50,8 @@ More information coming soon
 <h4> Jul 2016 - Jun 2020 </h4>
 
 * Student team: Worked as a Brake Engineer in designing and building an All Terrain Vehicle (ATV) that won two national Quad Bike design competitions in 2018.
-* Thesis: “Numerical Investigation of Flow over Launch Vehicle at transonic Mach numbers” <br>
-Performed CFD simulations to study the effects of angle of attack and strap-on boosters on aerodynamic forces and shockwave formation on the launch vehicle in transonic flow.
+* Thesis:  [Numerical simulation of flow field over slender bodies at transonic Mach number and low angle of attacks](https://iopscience.iop.org/article/10.1088/1757-899X/912/4/042047/meta) <br>
+* Research Project: [CFD of Flow Dynamic and Heat Transfer Characteristics of Dual Step Cylinders at Re = 2100](https://link.springer.com/article/10.1007/s13369-021-06029-0)
 
 
 
