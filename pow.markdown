@@ -17,8 +17,8 @@ More information coming soon
 <h3> Masters in Race Car Aerodynamics at University of Southampton </h3> 
 <h4> Sep 2023 - Sep 2024 </h4>
 
-* Group Design Project: Aerodynamic optimisation of the Formula Student car <br>
-* Dissertation: [Numerical Investigation on Motorsport Overtake Manoeuvre in Crosswind Conditions](https://www.sae.org/papers/numerical-investigation-motorsport-overtake-manoeuvre-crosswind-conditions-2025-01-8773) <br>
+* Group Design Project: Aerodynamic optimisation of the Formula Student car
+* Dissertation: [Numerical Investigation on Motorsport Overtake Manoeuvre in Crosswind Conditions](https://www.sae.org/papers/numerical-investigation-motorsport-overtake-manoeuvre-crosswind-conditions-2025-01-8773)
 * Formula Student: Developed a CFD workflow to conduct Conjugate Heat Transfer simulations of the race car's battery pack, assessing its thermal performance and cooling requirements.
 
 <h3> CFD Engineer at Euler Motors</h3>

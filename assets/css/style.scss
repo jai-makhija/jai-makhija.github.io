@@ -34,3 +34,39 @@ a:visited {
 .green-text {
   color: rgb(10, 233, 10);
 }
+
+.post-content {
+  max-width: 700px;   // 65–75ch is ideal for reading
+  margin: 0 auto;
+  line-height: 1.7;
+  font-size: 1.05rem;
+}
+
+.post-content ul {
+  padding-left: 1rem;
+}
+
+.post-content li {
+  margin-bottom: 1rem;
+}
+
+.post-content li::marker {
+  color: rgb(10, 233, 10); // your green accent
+}
+
+.post-subtitle {
+  margin-top: 0.4rem;
+  font-size: 1.5rem;
+  opacity: 0.75;
+}
+
+.post-title {
+  font-size: 2.4rem;
+  margin-bottom: 0.2rem;
+}
+
+.post-meta .post-subtitle {
+  color: #ffffff;
+  font-weight: 500;
+  margin-top: 0.5rem;
+}
