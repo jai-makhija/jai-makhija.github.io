@@ -265,3 +265,5 @@ a:hover { color: #0ae90a; }
 a:visited { color: #0ae90a; }
 
 .green-text { color: #0ae90a; }
+
+.post-meta .post-subtitle { color: #ffffff; }
